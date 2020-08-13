@@ -40,7 +40,6 @@ namespace CalculatorApp
         {
 
         }
-
         private void button2_Click(object sender, EventArgs e)
         {
             obj = new Calulator();
